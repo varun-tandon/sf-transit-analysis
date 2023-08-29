@@ -1,0 +1,4 @@
+service_id,service_description
+78965,WEEKDAY
+78966,SATURDAY
+78967,SUNDAY

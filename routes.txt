@@ -1,0 +1,69 @@
+route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_color,route_text_color
+1,SF,1,CALIFORNIA,5am-12 midnight daily,3,http://www.sfmta.com/1,005B95,FFFFFF
+12,SF,12,FOLSOM-PACIFIC,6am-10pm daily,3,http://www.sfmta.com/12,005B95,FFFFFF
+14,SF,14,MISSION,24 hour service daily,3,http://www.sfmta.com/14,005B95,FFFFFF
+14R,SF,14R,MISSION RAPID,5am-10pm daily,3,http://www.sfmta.com/14R,BF2B45,FFFFFF
+15,SF,15,BAYVIEW HUNTERS POINT EXPRESS,Weekdays 5am-10pm Weekends 8am-10pm,3,http://www.sfmta.com/15,005B95,FFFFFF
+18,SF,18,46TH AVENUE,6am-10pm daily,3,http://www.sfmta.com/18,005B95,FFFFFF
+19,SF,19,POLK,5am-10pm daily,3,http://www.sfmta.com/19,005B95,FFFFFF
+1X,SF,1X,CALIFORNIA EXPRESS,Weekday peak hours only,3,http://www.sfmta.com/1X,BF2B45,FFFFFF
+2,SF,2,SUTTER,6:30am-7pm daily,3,http://www.sfmta.com/2,005B95,FFFFFF
+21,SF,21,HAYES,5am-10pm daily,3,http://www.sfmta.com/21,005B95,FFFFFF
+22,SF,22,FILLMORE,24 hour service daily,3,http://www.sfmta.com/22,005B95,FFFFFF
+23,SF,23,MONTEREY,6am-10pm daily,3,http://www.sfmta.com/23,005B95,FFFFFF
+24,SF,24,DIVISADERO,5am-12:30am daily (Between Sutter St. and Bayshore Bl. 24 hours daily),3,http://www.sfmta.com/24,005B95,FFFFFF
+25,SF,25,TREASURE ISLAND,24 hour service daily,3,http://www.sfmta.com/25,005B95,FFFFFF
+27,SF,27,BRYANT,5am-10pm daily,3,http://www.sfmta.com/27,005B95,FFFFFF
+28,SF,28,19TH AVENUE,5am-12 midnight daily,3,http://www.sfmta.com/28,005B95,FFFFFF
+29,SF,29,SUNSET,5am-12 midnight daily,3,http://www.sfmta.com/29,005B95,FFFFFF
+30,SF,30,STOCKTON,Weedays 5am-12 midnight Weekends 6am-12 midnight,3,http://www.sfmta.com/30,005B95,FFFFFF
+31,SF,31,BALBOA,5am-10pm daily,3,http://www.sfmta.com/31,005B95,FFFFFF
+33,SF,33,ASHBURY-18TH ST,5am-10pm daily,3,http://www.sfmta.com/33,005B95,FFFFFF
+35,SF,35,EUREKA,7am-9pm daily,3,http://www.sfmta.com/35,005B95,FFFFFF
+36,SF,36,TERESITA,Weekdays 6am-10pm Weekends 8am-10pm,3,http://www.sfmta.com/36,005B95,FFFFFF
+37,SF,37,CORBETT,Weekdays 6am-9pm Weekends 9am-9pm,3,http://www.sfmta.com/37,005B95,FFFFFF
+38,SF,38,GEARY,24 hour service daily,3,http://www.sfmta.com/38,005B95,FFFFFF
+38R,SF,38R,GEARY RAPID,Weekdays 5am-10pm Weekends 6am-9pm,3,http://www.sfmta.com/38R,BF2B45,FFFFFF
+39,SF,39,COIT,9am-7pm daily,3,http://www.sfmta.com/39,005B95,FFFFFF
+43,SF,43,MASONIC,5am-12 midnight daily,3,http://www.sfmta.com/43,005B95,FFFFFF
+44,SF,44,"O'SHAUGHNESSY",5am-midnight daily (East of Glen Park BART 24 hours daily),3,http://www.sfmta.com/44,005B95,FFFFFF
+45,SF,45,UNION-STOCKTON,5am-10pm daily,3,http://www.sfmta.com/45,005B95,FFFFFF
+48,SF,48,QUINTARA-24TH STREET,5am-midnight daily (East of Castro St. 24 hours daily),3,http://www.sfmta.com/48,005B95,FFFFFF
+49,SF,49,VAN NESS-MISSION,5am-12 midnight daily,3,http://www.sfmta.com/49,005B95,FFFFFF
+5,SF,5,FULTON,5am-1am daily (West of Civic Center 24 hours daily),3,http://www.sfmta.com/5,005B95,FFFFFF
+52,SF,52,EXCELSIOR,Weekdays 6am-10pm Weekends 8am-10pm,3,http://www.sfmta.com/52,005B95,FFFFFF
+54,SF,54,FELTON,5am-10pm daily,3,http://www.sfmta.com/54,005B95,FFFFFF
+55,SF,55,DOGPATCH,5am-10pm daily,3,http://www.sfmta.com/55,005B95,FFFFFF
+56,SF,56,RUTLAND,7am-9pm daily,3,http://www.sfmta.com/56,005B95,FFFFFF
+57,SF,57,PARKMERCED,5am-10pm daily,3,http://www.sfmta.com/57,005B95,FFFFFF
+58,SF,58,LAKE MERCED,Weekdays 5am-10pm Weekends 6am-10pm,3,http://www.sfmta.com/58,005B95,FFFFFF
+5R,SF,5R,FULTON RAPID,Weekdays 7am-7pm,3,http://www.sfmta.com/5R,BF2B45,FFFFFF
+6,SF,6,HAIGHT-PARNASSUS,5am-10pm daily,3,http://www.sfmta.com/6,005B95,FFFFFF
+66,SF,66,QUINTARA,Weekdays 6am-10pm Weekends 8am-10pm,3,http://www.sfmta.com/66,005B95,FFFFFF
+67,SF,67,BERNAL HEIGHTS,Weekdays 5am-10pm Weekends 6am-10pm,3,http://www.sfmta.com/67,005B95,FFFFFF
+7,SF,7,HAIGHT-NORIEGA,5am-10pm daily,3,http://www.sfmta.com/7,005B95,FFFFFF
+714,SF,714,BART EARLY BIRD,Weekdays 4am-5am,3,http://www.sfmta.com/714,005B95,FFFFFF
+8,SF,8,BAYSHORE,5am-12 midnight daily,3,http://www.sfmta.com/8,005B95,FFFFFF
+8AX,SF,8AX,BAYSHORE A EXPRESS,Weekdays 6:30-9:30am (northbound) 3:30-6:50pm (southbound),3,http://www.sfmta.com/8AX,005B95,FFFFFF
+8BX,SF,8BX,BAYSHORE B EXPRESS,Weekdays 6:30-9am (northbound) 3:30-6:30pm (southbound),3,http://www.sfmta.com/8BX,005B95,FFFFFF
+9,SF,9,SAN BRUNO,5am-12 midnight daily,3,http://www.sfmta.com/9,005B95,FFFFFF
+90,SF,90,SAN BRUNO OWL,12 midnight-5am daily,3,http://www.sfmta.com/90,666666,FFFFFF
+91,SF,91,3RD-19TH AVE OWL,12 midnight-5am daily,3,http://www.sfmta.com/91,666666,FFFFFF
+9R,SF,9R,SAN BRUNO RAPID,Weekdays 7am-6pm,3,http://www.sfmta.com/9R,BF2B45,FFFFFF
+CA,SF,CA,CALIFORNIA STREET CABLE CAR,7 am-8:30 pm daily,5,http://www.sfmta.com/CA,B49A36,000000
+F,SF,F,MARKET & WHARVES,7am-10pm daily,0,http://www.sfmta.com/F,B49A36,000000
+J,SF,J,CHURCH,5am-12 midnight daily,0,http://www.sfmta.com/J,A96614,FFFFFF
+K,SF,K,INGLESIDE,5am-12 midnight daily,0,http://www.sfmta.com/K,437C93,FFFFFF
+KBUS,SF,KBUS,K INGLESIDE BUS,Weekdays 5am-6am Weekends 5am-8am,3,http://www.sfmta.com/KBUS,437C93,FFFFFF
+LBUS,SF,LBUS,TARAVAL BUS,5am-10 pm daily,3,http://www.sfmta.com/LBUS,942D83,FFFFFF
+LOWL,SF,LOWL,OWL TARAVAL,10pm-5am nightly,3,http://www.sfmta.com/LOWL,666666,FFFFFF
+M,SF,M,M OCEAN VIEW,Weekdays 6am-12 midnight Weekends 8am-12 midnight,0,http://www.sfmta.com/M,008547,FFFFFF
+N,SF,N,JUDAH,Weekdays 6am-12 midnight Weekends 8am-12 midnight,0,http://www.sfmta.com/N,005B95,FFFFFF
+NBUS,SF,NBUS,JUDAH BUS,Weekdays 5am-6am Weekends 5am-8am,3,http://www.sfmta.com/NBUS,005B95,FFFFFF
+NOWL,SF,NOWL,OWL JUDAH,12 midnight-5am nightly,3,http://www.sfmta.com/NOWL,666666,FFFFFF
+PH,SF,PH,POWELL-HYDE CABLE CAR,7 am-10 pm daily,5,http://www.sfmta.com/PH,B49A36,000000
+PM,SF,PM,POWELL-MASON CABLE CAR,7 am-10 pm daily,5,http://www.sfmta.com/PM,B49A36,000000
+S,SF,S,SHUTTLE,Additional Weekday Service,0,http://www.sfmta.com/S,FFD600,000000
+T,SF,T,THIRD,Weekends 8 am-11:30 pm,0,http://www.sfmta.com/T,BF2B45,FFFFFF
+TBUS,SF,TBUS,THIRD BUS,Weekdays 5am-6am Weekends 5am-8am,3,http://www.sfmta.com/TBUS,BF2B45,FFFFFF
+28R,SF,28R,19TH AVENUE RAPID,Weekdays 7am-7pm,3,http://www.sfmta.com/28R,BF2B45,FFFFFF
